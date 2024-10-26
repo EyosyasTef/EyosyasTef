@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EyosyasTef
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in cyber security, web & app dev
+- 🌱 I’m currently learning Python & java
 - 💞️ I’m looking to collaborate on stuff
 - 📫 Reach me at eyosyastefera@outlook.com
 
